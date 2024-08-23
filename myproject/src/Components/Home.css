@@ -1,0 +1,15 @@
+.home-box{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgb(3, 3, 43) , rgb(10, 60, 80) );
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.home-box h1{
+    color: #fff;
+}
+.btn{
+    padding: 5px;
+}
